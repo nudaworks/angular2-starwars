@@ -1,4 +1,4 @@
-# Angular2 StarWars App
+# Angular2 StarWars
 Frontend-only ng2 app
 
 ## Installation
@@ -12,9 +12,3 @@ Frontend-only ng2 app
 - KendoUI
 - Stylus/Myth
 
-
-
-Template Engines:
-Jade
-Mustache
-EJS
